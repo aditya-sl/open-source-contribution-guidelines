@@ -31,6 +31,9 @@ Do you know that contributing to the open source projects give benefits in many 
 
 - Now write a message to the maintainer of the main repository such as what you have changed, why it is necessary, any relevant source etc.
 - After writing message click `Create Pull Request` button. A pull request will send to the maintainers of the main repo.
+
+  ![create PR](images/pr-message.png)
+
 - Then they will review your changes. If they have any comment they will comment on the request. You have to follow-up that comment and do what they have requested.
 - After reviewing if all is ok, they will merge your request with their branch. And you have successfully contributed to an open source project.
 - Keep your eyes on to the project. If they update the project you will try to find something to contribute again.
